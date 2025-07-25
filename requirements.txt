@@ -1,0 +1,8 @@
+pypdf
+llama-index
+langchain
+transformers
+einops
+accelerate
+bitsandbytes
+sentence-transformers
